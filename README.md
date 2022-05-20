@@ -13,3 +13,4 @@ The repo contains two jupiter notebooks, which are self-contained in execution.
 Giving access to drive through Google Colab's API allows you to write a .txt log of the training epochs.
 
 The ouput of our best ranking result is available in output_topk.txt
+A report discussing our research is available in GDL-DDI_Report.pdf
